@@ -32,6 +32,7 @@ return 0;
 7. Конец.
 
 ### Блок-схема
+<img width="595" height="546" alt="изображение" src="https://github.com/user-attachments/assets/fce9dc7b-57cc-4c91-9a10-e6d3945edb3d" />
 
 ```
 ## Результат
